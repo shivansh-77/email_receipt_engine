@@ -1,0 +1,5 @@
+email_id,subject,body,raw_merchant,raw_amount,currency,raw_date,merchant,amount,date,category
+1,Your Walmart Order #12345,"Thank you for shopping at WALMART on 2025-01-10. Amount charged: Rs. 1,234.50",WALMART on 2025-01-10. Amount charged,"1,23",INR,2025-01-10,Walmart On 2025-01-10. Amount Charged,1.23,2025-01-10,Groceries
+3,Amazon Marketplace - Order Confirmation,Thank you for shopping at Amazon Marketplace on 2025-01-11. Total: $45.99,Amazon Marketplace on 2025-01-11. Total,45.99,$,2025-01-11,Amazon Marketplace On 2025-01-11. Total,45.99,2025-01-11,Online Retail
+4,Swiggy Order Delivered,Order from SWIGGY on 2025-01-12. You were charged Rs 560.00,SWIGGY on 2025-01-12. You were charged Rs 560.00,560.00,INR,2025-01-12,Swiggy On 2025-01-12. You Were Charged Rs 560.00,560.0,2025-01-12,Food Delivery
+5,Daily Walmart Purchase,"Thank you for shopping at Walmart Inc. on 2025-01-12. Amount charged: Rs. 1,100.00",Walmart Inc. on 2025-01-12. Amount charged,"1,10",INR,2025-01-12,Walmart Inc. On 2025-01-12. Amount Charged,1.1,2025-01-12,Groceries
